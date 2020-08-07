@@ -1,0 +1,29 @@
+*{
+	font-family: Verdana;
+}
+
+h1 {
+    text-align: center;
+    background-color: #ffffff;
+}
+
+p {
+    font: 10px;
+    text-align: center;
+}
+
+table, th, td {
+    font: 12px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+.cantidad{
+    text-align: left;
+}
+
+label{
+    font-weight: bold;
+    color: black;
+}
